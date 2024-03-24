@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 ## 📈 Activity Graph
 <p align="center">
 <a href="https://github.com/muftialroaz">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=muftialroaz&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%" height="50%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=muftialroaz&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="80%" height="50%">
 </a>
 </p>
